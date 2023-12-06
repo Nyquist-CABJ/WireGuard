@@ -6,9 +6,6 @@ This script will let you set up your own VPN server in no more than a minute, ev
 Installation
 Run the script and follow the assistant:
 
-git clone https://github.com/Nyquist-CABJ/WireGuard.git 
-cd WireGuard
-chmod +x wireguard-install.sh
-sudo ./wireguard-install.sh
+git clone https://github.com/Nyquist-CABJ/WireGuard.git && cd WireGuard && chmod +x wireguard.sh && sudo ./wireguard.sh
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
